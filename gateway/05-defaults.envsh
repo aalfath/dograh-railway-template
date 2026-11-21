@@ -1,0 +1,6 @@
+#!/bin/sh
+# Defaults for local runs; on Railway these come from the template's variables.
+export PORT="${PORT:-8080}"
+export DOGRAH_API_HOST="${DOGRAH_API_HOST:-dograh-api}"
+export DOGRAH_UI_HOST="${DOGRAH_UI_HOST:-dograh-ui}"
+export MINIO_HOST="${MINIO_HOST:-minio}"
