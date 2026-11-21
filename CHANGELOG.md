@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.51.0-1 (2026-11-21)
+
+Breaking changes: none.
+
+- README: Deploy on Railway button for the published template (`dograh-1`). No change to the services.
+
 ## 1.51.0 (2026-11-21)
 
 Breaking changes: none (first release).

@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/dograh-1?utm_medium=integration&utm_source=button&utm_campaign=dograh)
+
 # Dograh on Railway
 
 A Railway template for [Dograh](https://github.com/dograh-hq/dograh), the open-source voice AI platform: build voice agents in a visual workflow editor and run them in the browser (WebRTC) or over a phone line, with your own LLM, speech-to-text and text-to-speech keys.
